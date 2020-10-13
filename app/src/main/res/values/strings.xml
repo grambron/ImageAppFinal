@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+    <string name="passedURL">URL</string>
+    <string name="userName">UserName</string>
+    <string name="catURL">https://pbs.twimg.com/media/Ds6O-iPXcAADNns.jpg</string>
+    <string name="checkInternetConnection">Check Your Internet Connection</string>
+    <string name="checkInternetConnectionAndTry">Check Your Internet Connection And Try Again</string>
+    <string name="unableToGetPicture">Unable To Get The Picture</string>
+</resources>
